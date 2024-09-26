@@ -1,5 +1,5 @@
 # DGAsyncPublisher
-Let developers can use asyncMap in Combine Publisher.
+Let developers can use thread-safe asyncMap in Combine Publisher.
 
 
 ## Installation
