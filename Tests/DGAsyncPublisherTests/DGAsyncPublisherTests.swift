@@ -1,7 +1,7 @@
 import Testing
 import Foundation
 import Combine
-@testable import DGAsyncPublisher
+import DGAsyncPublisher
 
 
 @MainActor
